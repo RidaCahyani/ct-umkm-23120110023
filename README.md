@@ -1,4 +1,4 @@
-# `<isi: nama UMKM>`: `<isi: judul singkat solusi, misalnya "Tiket Servis Digital">`
+# `Laundry Kristal`: `Pelacak Status Cucian`
 
 > [!IMPORTANT]
 > **Isi saat kickoff, lalu jadikan commit pertama kamu.** Bagian yang wajib terisi di commit pertama: **1. Identitas**, **2. Kasus**, dan **3. Data lapangan** (kolom "Rencana" saja). Hapus setiap teks `<isi: ...>` seutuhnya (termasuk tanda `< >`), lalu tulis isianmu sendiri di tempatnya. Bagian lain diisi bertahap sesuai minggu di **Timeline**.
@@ -11,9 +11,9 @@ Repo ini harus **Public** dengan nama `ct-umkm-<NIM>`, supaya dosen bisa membuka
 
 | | |
 |---|---|
-| NIM | `<isi: NIM>` |
-| Nama panggilan (opsional) | `<isi: boleh dikosongkan>` |
-| Repo | `https://github.com/<isi: username>/ct-umkm-<isi: NIM>` |
+| NIM | `23120110023` |
+| Nama panggilan (opsional) | `Rida` |
+| Repo | `https://github.com/RidaCahyani/ct-umkm-23120110023` |
 
 ## 2. Kasus
 
@@ -21,12 +21,12 @@ Salin dari bank studi kasus, lalu tulis ulang masalahnya dengan kalimatmu sendir
 
 | | |
 |---|---|
-| Nomor kasus | `<isi: nomor>` |
-| Jenis UMKM | `<isi: jenis UMKM dari bank kasus>` |
-| Kelompok kasus | `<isi: misalnya Antrean & status order>` |
-| Masalah utama (bank kasus) | `<isi: salin persis>` |
-| Masalah utama (kalimatku) | `<isi: satu kalimat yang menyebut siapa yang rugi dan kapan masalah itu terjadi>` |
-| Tantangan Bonus | `<isi: salin dari bank kasus>` |
+| Nomor kasus | `2` |
+| Jenis UMKM | `Laundry Kiloan` |
+| Kelompok kasus | `Antrean & status order` |
+| Masalah utama (bank kasus) | `Pelanggan terus bertanya status cucian lewat chat` |
+| Masalah utama (kalimatku) | `Pemilik laundry kehilangan banyak waktu kerja karena harus membalas chat pelanggan yang menanyakan status cucian satu per satu, terutama sore hari saat banyak cucian selesai dan pelanggan mulai bertanya kapan bisa diambil.` |
+| Tantangan Bonus | `Tombol kirim notifikasi via link wa.me dengan template pesan otomatis` |
 
 ## 3. Data lapangan: rencana dan realisasi
 
@@ -36,9 +36,9 @@ Jalur yang saya pilih: `<isi: narasumber / transaksi>`
 
 | Kode | Siapa (peran, tanpa nama) | Hubungan dengan kasus | Rencana (cara, minggu) | Realisasi |
 |---|---|---|---|---|
-| N1 | `<isi: misalnya pemilik usaha laundry dekat kampus>` | `<isi: UMKM sejenis kasus saya>` | `<isi: tatap muka, PTS−4>` | `<isi: belum / selesai, lihat docs/01>` |
-| N2 | `<isi: peran>` | `<isi: hubungan>` | `<isi: rencana>` | `<isi: realisasi>` |
-| N3 | `<isi: peran>` | `<isi: hubungan>` | `<isi: rencana>` | `<isi: realisasi>` |
+| N1 | `<isi: misalnya pemilik usaha laundry dekat kampus>` | `<isi: UMKM sejenis kasus saya>` | `tatap muka, PTS−4` | `<isi: belum / selesai, lihat docs/01>` |
+| N2 | `<isi: peran>` | `<isi: hubungan>` | `chat whatsapp, PTS-04` | `<isi: realisasi>` |
+| N3 | `<isi: peran>` | `<isi: hubungan>` | `chat whatsapp, PTS-04` | `<isi: realisasi>` |
 
 Kalau memilih jalur transaksi, isi satu baris saja: kode `T`, sumber catatan (misalnya buku nota pemilik), rencana pengambilan, realisasi.
 
