@@ -143,7 +143,7 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 
 ### 5.2 Sumber dan izin
 
-`<isi: dari mana data didapat, kapan secara relatif (misalnya PTS−4), bagaimana caranya, izin yang diberikan>`
+`Wawancara 3 narasumber pada minggu PTS-4. N1 (pemilik) diwawancarai tatap muka (±20 menit), sedangkan N2 dan N3 (pelanggan) via WhatsApp (±10–15 menit). Semua memberikan izin lisan (Izin: ya (lisan)). Nama lengkap dan nomor HP tidak disalin; narasumber disamarkan menjadi N1, N2, dan N3.`
 
 ### 5.3A Narasumber (hapus bagian ini kalau memakai Jalur B)
 
@@ -152,84 +152,57 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 | | |
 |---|---|
 | Peran | `pemilik` |
-| Hubungan dengan kasus | `<isi: jenis usahanya dan kenapa relevan dengan kasusmu>` |
-| Cara dan lama | `<isi: tatap muka / telepon / chat, berapa menit>` |
-| Izin | `<isi: ya (lisan) / ya (tertulis di chat)>` |
+| Hubungan dengan kasus | `Pemilik sekaligus pengelola utama yang memahami langsung operasional harian, kendala pencatatan manual, dan sering menerima keluhan pelanggan terkait status cucian.` |
+| Cara dan lama | `tatap muka, 15 menit` |
+| Izin | `ya (lisan)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Kapan terakhir pelanggan komplain cucian belum selesai padahal nota sudah jatuh tempo, dan bagaimana Anda melacaknya?` | `1 Nov 2026, pelanggan datang pukul 09.00. Nota tertulis "ambil Sabtu", namun cucian tertunda sehari karena mesin antre dan lupa dikabari (pelanggan sudah chat 3x). Saya minta maaf, mencari nota di tumpukan berkas (±20 menit), lalu meminta karyawan segera menyetrika. Sebagai kompensasi, pelanggan diberi potongan Rp5.000.` |
+| 2 | `Kapan terakhir terjadi salah hitung, dan bagaimana perhitungan tarif reguler/express dilakukan?` | `13 Okt 2026, salah tulis berat 2,6 kg (aslinya 6,2 kg), ketahuan saat pelanggan membayar dan langsung ditimbang ulang. Contoh hitungan: 11 Nov 2026 order 5,4 kg reguler x Rp6.000 = Rp32.400. 12 Nov 2026 order express 3,3 kg x Rp16.000 (reguler+express) = Rp52.800. 20 Nov 2026, pelanggan express minta info via WA dan menanyakan status hingga 4 kali.` |
+| 3 | `Bagaimana pencatatan order terakhir, dan kapan pelanggan datang tanpa nota?` | `23 Nov 2026, order dicatat di nota kertas rangkap dua dan buku besar (nama, tanggal, berat, jenis, harga, catatan). 23 Okt 2026, ada pelanggan datang tanpa nota; saya mencari di buku besar (±8 menit) dan butuh total ±10 menit untuk verifikasi karena ada nama yang mirip.` |
+| 4 | `Bagaimana tingginya pertanyaan status cucian, dan kapan terakhir Anda kesulitan membalasnya?` | `22 Nov 2026, ada 7 pelanggan bertanya status (4 WA, 2 telepon, 1 datang), memuncak pukul 07.35–09.30 dan 13.30–15.00. 18 Nov 2026, saat saya sedang menyetrika, chat pelanggan baru bisa dibalas 40 menit kemudian (pelanggan sudah chat 2 kali lagi). Saya minta maaf karena hal ini mengganggu pekerjaan inti.` |
+| 5 | `Kapan terakhir ada cucian tertukar/hilang, dan bagaimana penyelesaiannya?` | `17 Nov 2026, 2 potong pakaian pelanggan tertukar dengan pelanggan lain yang namanya sama. Butuh waktu sehari untuk menemukannya. Pelanggan kecewa dan berkata, "Kalau dicatat jelas, harusnya tidak begini, Bu. Saya jadi ragu menitipkan cucian saya lagi di sini." Saya minta maaf dan memberi gratis cuci + potongan Rp5.000.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: `"Maaf banget Bu, ini kemarin mesin antre, sebentar saya cek dulu."`
 
 #### N2
 
 | | |
 |---|---|
-| Peran | `pelanggan` |
-| Hubungan dengan kasus | `<isi>` |
+| Peran | `pelanggan tetap` |
+| Hubungan dengan kasus | `Pelanggan tetap laundry kiloan. Relevan karena sebagai pengguna langsung yang sering menanyakan status cucian via WA, pernah menggunakan layanan express, dan menerima nota manual tanpa kode order.` |
 | Cara dan lama | `Chat WhatsApp, 15 menit` |
 | Izin | `ya (tertulis dichat)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `Kapan terakhir kali nge-chat via WA/telepon pemilik laundry buat nanya status cucian? Lewat apa dan jam berapa?` | `Terakhir hari Jumat, 20 Nov 2026 pukul 10:23 via WhatsApp menanyakan jam ambil. Sebelumnya pada Sabtu, 14 Nov 2026 mulai pukul 07:17 pagi sudah chat menanyakan status karena mendesak, lalu chat lagi pukul 12:25 ("berapa lama lagi ya kak") karena cucian belum selesai, dan baru dinyatakan siap pada pukul 13:38.` |
-| 2 | `Kapan terakhir menitipkan cucian di laundry? Ceritakan dari awal sampai mengambil cuciannya?` | `Terakhir tanggal 17 November 2026 (Selasa). Karena sedang sibuk dan baju sudah menumpuk, cucian dititipkan agar stok pakaian tetap aman. Cucian diambil hari Jumat (20 November) karena posisinya sudah selesai dicuci.` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Kapan terakhir kali nge-chat via WA/telepon pemilik laundry buat nanya status cucian? Lewat apa dan jam berapa?` | `20 Nov 2026 pukul 10:23 via WhatsApp menanyakan jam ambil. Sebelumnya pada Sabtu, 14 Nov 2026 pukul 07:17 sudah chat menanyakan status karena mendesak, lalu chat lagi pukul 12:25 ("berapa lama lagi ya kak") karena cucian belum selesai, dan baru dinyatakan siap pada pukul 13:38.` |
+| 2 | `Kapan terakhir menitipkan cucian di laundry? Ceritakan dari awal sampai mengambil cuciannya?` | `Selasa, 17 November 2026. Karena sibuk dan baju menumpuk, saya titipkan agar stok pakaian aman. Cucian diambil hari Jumat, 20 November karena posisinya sudah selesai dicuci.` |
+| 3 | `Saat menitipkan, Anda diberi bukti apa? Bagaimana cara mengecek status tanpa tanya pemilik?` | `Hanya diberi nota kertas (nama, tanggal, berat, harga). Tidak bisa cek status sendiri, jadi harus tanya via WA dan menunggu balasan.` |
+| 4 | `Kapan terakhir pakai express? Bagaimana tahu hitungan tarifnya benar?` | `20 Nov 2026, express 3,8 kg. Tarif Rp6.000 + Rp10.000 = Rp16.000/kg (Total Rp60.800). Tetap harus pastikan berkali-kali via chat apakah selesai sebelum jam 12.00.` |
+| 5 | `Saat menunggu Selasa-Jumat, apakah tahu cucian sedang diproses atau antre? Pernah menunggu lebih lama?` | `Tidak tahu status prosesnya (antre/cuci/setrika). Jika mesin antre, selesai lebih lama dari perkiraan dan saya harus chat lagi untuk memastikan.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: `"Saya tidak tahu apakah cucian saya sedang diantre dicuci, disetrika, atau belum diproses. Kalau mesin antre, saya harus menanyakan lagi di chat untuk memastikannya."`
 
 #### N3
 
 | | |
 |---|---|
-| Peran | `pelanggan tetap` |
-| Hubungan dengan kasus | `Pelanggan tetap laundry kiloan yang rutin memakai layanan reguler dan express. Relevan karena ia tidak memiliki nomor WA pemilik, sehingga terpaksa harus datang langsung ke lokasi untuk memastikan status cucian. Hal ini menegaskan perlunya sistem pelacakan mandiri (cek kode order) agar pelanggan tidak bergantung pada chat atau nota fisik.` |
+| Peran | `pelanggan langganan` |
+| Hubungan dengan kasus | `Pelanggan langganan laundry kiloan yang rutin memakai layanan reguler dan express. Relevan karena ia tidak memiliki nomor WA pemilik, sehingga terpaksa harus datang langsung ke lokasi untuk memastikan status cucian. Hal ini menegaskan perlunya sistem pelacakan mandiri (cek kode order) agar pelanggan tidak bergantung pada chat atau nota fisik.` |
 | Cara dan lama | `Chat WhatsApp, 15 menit` |
 | Izin | `ya (tertulis dichat)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
 | 1 | `Kapan terakhir kamu menitipkan cucian di laundry? Ceritakan dari awal?` | `Rabu pagi, 18 November 2026, di laundry langganan dekat rumah. Cucian ditimbang dulu sebelum diterima. Harganya Rp5.000/kg.` |
-| 2 | `Setelah ditimbang, apakah kamu diberi nota atau kode, dan kapan selesainya?` | `Pemilik mengonfirmasi berat, lalu langsung memberi nota yang ditulisi nama. Layanan reguler selesai 2 sampai 3 hari, dan tanggal pengambilan tertulis di nota.` |
-| 3 | `Bagaimana kamu tahu cucianmu sudah bisa diambil, dan apa yang kamu lakukan kalau tanggal di nota sudah lewat atau cucian belum jadi?` | `Langsung datang berdasarkan tanggal di nota. tidak punya nomor pemilik, jadi tidak menanyakan status lewat chat. belum pernah mendapati cuciannya belum jadi saat datang, dan kalau itu terjadi ia menunggu di tempat, bukan pulang dulu.` |
+| 2 | ` Setelah ditimbang, apakah kamu diberi nota atau kode, dan kapan selesainya?` | `Pemilik mengonfirmasi berat, lalu langsung memberi nota yang ditulisi nama. Layanan reguler selesai 2–3 hari, dan tanggal pengambilan tertulis di nota.` |
+| 3 | `Bagaimana kamu tahu cucianmu sudah bisa diambil? Apa yang dilakukan kalau tanggal di nota sudah lewat atau cucian belum jadi?` | `Langsung datang berdasarkan tanggal di nota. Tidak punya nomor pemilik, jadi tidak pernah menanyakan status lewat chat. Belum pernah mendapati cucian belum jadi saat datang. Kalau itu terjadi, ia memilih menunggu di tempat.` |
 | 4 | `Pernah nota hilang atau tertinggal saat mau mengambil? Bagaimana caranya mengambil cucian?` | `Pernah hilang, tapi cucian tetap bisa diambil karena sudah langganan dan cucian sudah diberi nama.` |
 | 5 | `Kapan terakhir memakai layanan express, dan apakah selesai sesuai janji?` | `Sekitar Desember 2025 atau Januari 2026, untuk kebutuhan mendesak keluarga. Selesai sesuai janji: diserahkan hari ini, besok sudah bisa diambil.` |
 
-Kutipan langsung: "`Karena ga punya nomor owner nya jadi saya langsung dateng`"
-
-### 5.3B Transaksi (hapus bagian ini kalau memakai Jalur A)
-
-Ganti judul kolom sesuai kasusmu. Minimal 5 kolom; tambah kolom kalau perlu.
-
-| Kode | `<kolom 1>` | `<kolom 2>` | `<kolom 3>` | `<kolom 4>` | `<kolom 5>` |
-|---|---|---|---|---|---|
-| T01 | | | | | |
-| T02 | | | | | |
-| T03 | | | | | |
-| T04 | | | | | |
-| T05 | | | | | |
-| T06 | | | | | |
-| T07 | | | | | |
-| T08 | | | | | |
-| T09 | | | | | |
-| T10 | | | | | |
-| T11 | | | | | |
-| T12 | | | | | |
-| T13 | | | | | |
-| T14 | | | | | |
-| T15 | | | | | |
-| T16 | | | | | |
-| T17 | | | | | |
-| T18 | | | | | |
-| T19 | | | | | |
-| T20 | | | | | |
+Kutipan langsung: `"Karena ga punya nomor owner nya jadi saya langsung dateng"`
 
 ### 5.4 Temuan awal
 
