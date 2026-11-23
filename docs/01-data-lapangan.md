@@ -206,8 +206,9 @@ Kutipan langsung: `"Karena ga punya nomor owner nya jadi saya langsung dateng"`
 
 ### 5.4 Temuan awal
 
+lengkapi sumber & izin
 | Kode | Temuan | Bukti |
 |---|---|---|
-| TA1 | `<isi>` | `<isi: kode N atau T>` |
-| TA2 | `<isi>` | `<isi>` |
-| TA3 | `<isi>` | `<isi>` |
+| TA1 | `Pelanggan menanyakan status cucian berulang kali via chat karena tidak ada pembaruan otomatis, sementara pemilik kesulitan membalas cepat saat sedang sibuk bekerja.` | `N1, N2>` |
+| TA2 | `Pencatatan order hanya mengandalkan nota kertas dan label nama (tanpa kode unik), sehingga pelanggan tidak bisa cek mandiri dan memicu risiko cucian tertukar atau lama dicari.` | `N1, N2, N3` |
+| TA3 | `Tidak ada informasi transparan terkait tahapan proses (antre, cuci, setrika), membuat pelanggan cemas dan harus menebak atau menunggu tanpa kepastian.` | `N1, N2, N3` |
