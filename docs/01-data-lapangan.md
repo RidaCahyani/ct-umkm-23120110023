@@ -139,7 +139,7 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 
 ### 5.1 Jalur yang dipilih
 
-`<isi: A (narasumber) atau B (transaksi)>`
+`A (narasumber)`
 
 ### 5.2 Sumber dan izin
 
@@ -151,7 +151,7 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 
 | | |
 |---|---|
-| Peran | `<isi: misalnya pemilik, karyawan, pelanggan tetap>` |
+| Peran | `pemilik` |
 | Hubungan dengan kasus | `<isi: jenis usahanya dan kenapa relevan dengan kasusmu>` |
 | Cara dan lama | `<isi: tatap muka / telepon / chat, berapa menit>` |
 | Izin | `<isi: ya (lisan) / ya (tertulis di chat)>` |
@@ -170,15 +170,15 @@ Kutipan langsung: "`<isi>`"
 
 | | |
 |---|---|
-| Peran | `<isi>` |
+| Peran | `pelanggan` |
 | Hubungan dengan kasus | `<isi>` |
-| Cara dan lama | `<isi>` |
-| Izin | `<isi>` |
+| Cara dan lama | `Chat WhatsApp, 15 menit` |
+| Izin | `ya (tertulis dichat)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
+| 1 | `Kapan terakhir kali nge-chat via WA/telepon pemilik laundry buat nanya status cucian? Lewat apa dan jam berapa?` | `Terakhir hari Jumat, 20 Nov 2026 pukul 10:23 via WhatsApp menanyakan jam ambil. Sebelumnya pada Sabtu, 14 Nov 2026 mulai pukul 07:17 pagi sudah chat menanyakan status karena mendesak, lalu chat lagi pukul 12:25 ("berapa lama lagi ya kak") karena cucian belum selesai, dan baru dinyatakan siap pada pukul 13:38.` |
+| 2 | `Kapan terakhir menitipkan cucian di laundry? Ceritakan dari awal sampai mengambil cuciannya?` | `Terakhir tanggal 17 November 2026 (Selasa). Karena sedang sibuk dan baju sudah menumpuk, cucian dititipkan agar stok pakaian tetap aman. Cucian diambil hari Jumat (20 November) karena posisinya sudah selesai dicuci.` |
 | 3 | `<isi>` | `<isi>` |
 | 4 | `<isi>` | `<isi>` |
 | 5 | `<isi>` | `<isi>` |
@@ -189,20 +189,20 @@ Kutipan langsung: "`<isi>`"
 
 | | |
 |---|---|
-| Peran | `<isi>` |
-| Hubungan dengan kasus | `<isi>` |
-| Cara dan lama | `<isi>` |
-| Izin | `<isi>` |
+| Peran | `pelanggan tetap` |
+| Hubungan dengan kasus | `Pelanggan tetap laundry kiloan yang rutin memakai layanan reguler dan express. Relevan karena ia tidak memiliki nomor WA pemilik, sehingga terpaksa harus datang langsung ke lokasi untuk memastikan status cucian. Hal ini menegaskan perlunya sistem pelacakan mandiri (cek kode order) agar pelanggan tidak bergantung pada chat atau nota fisik.` |
+| Cara dan lama | `Chat WhatsApp, 15 menit` |
+| Izin | `ya (tertulis dichat)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Kapan terakhir kamu menitipkan cucian di laundry? Ceritakan dari awal?` | `Rabu pagi, 18 November 2026, di laundry langganan dekat rumah. Cucian ditimbang dulu sebelum diterima. Harganya Rp5.000/kg.` |
+| 2 | `Setelah ditimbang, apakah kamu diberi nota atau kode, dan kapan selesainya?` | `Pemilik mengonfirmasi berat, lalu langsung memberi nota yang ditulisi nama. Layanan reguler selesai 2 sampai 3 hari, dan tanggal pengambilan tertulis di nota.` |
+| 3 | `Bagaimana kamu tahu cucianmu sudah bisa diambil, dan apa yang kamu lakukan kalau tanggal di nota sudah lewat atau cucian belum jadi?` | `Langsung datang berdasarkan tanggal di nota. tidak punya nomor pemilik, jadi tidak menanyakan status lewat chat. belum pernah mendapati cuciannya belum jadi saat datang, dan kalau itu terjadi ia menunggu di tempat, bukan pulang dulu.` |
+| 4 | `Pernah nota hilang atau tertinggal saat mau mengambil? Bagaimana caranya mengambil cucian?` | `Pernah hilang, tapi cucian tetap bisa diambil karena sudah langganan dan cucian sudah diberi nama.` |
+| 5 | `Kapan terakhir memakai layanan express, dan apakah selesai sesuai janji?` | `Sekitar Desember 2025 atau Januari 2026, untuk kebutuhan mendesak keluarga. Selesai sesuai janji: diserahkan hari ini, besok sudah bisa diambil.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: "`Karena ga punya nomor owner nya jadi saya langsung dateng`"
 
 ### 5.3B Transaksi (hapus bagian ini kalau memakai Jalur A)
 
